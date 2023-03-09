@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8a8a519-d542-4c75-80f7-0abde7a17ecd": {
+      "ProjectGuid": "a8a8a519-d542-4c75-80f7-0abde7a17ecd",
+      "DisplayName": "Farmonks.Generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
